@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 494f2161ac06d455bb855d15152adb83
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - yourGUITexture: {instanceID: 0}
+  - texture1: {fileID: 2800000, guid: 56d8d874ddf7c4e57ab0ef31635802d3, type: 3}
+  - texture2: {fileID: 2800000, guid: 244fa3757f6534e3481f227cc788b148, type: 3}
+  - mainScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 47ef6b5ebd11e708110040caed206342
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Dummy01
+    100002: CT_Brake
+    100004: CT_Body
+    100006: CT_Trans
+    100008: CT_Engine
+    100010: CT_Chassi
+    100012: CT_Steerin
+    100014: C_Front.target
+    100016: C_Front
+    100018: C_Back.target
+    100020: C_Back
+    100022: LightF.target
+    100024: LightF
+    100026: LightB.target
+    100028: LightB
+    100030: CT_WheelBL
+    100032: CT_WheelFR
+    100034: CT_WheelBR
+    100036: CT_WheelFL
+    100038: //RootNode
+    400000: Dummy01
+    400002: CT_Brake
+    400004: CT_Body
+    400006: CT_Trans
+    400008: CT_Engine
+    400010: CT_Chassi
+    400012: CT_Steerin
+    400014: C_Front.target
+    400016: C_Front
+    400018: C_Back.target
+    400020: C_Back
+    400022: LightF.target
+    400024: LightF
+    400026: LightB.target
+    400028: LightB
+    400030: CT_WheelBL
+    400032: CT_WheelFR
+    400034: CT_WheelBR
+    400036: CT_WheelFL
+    400038: //RootNode
+    2300000: CT_Brake
+    2300002: CT_Body
+    2300004: CT_Trans
+    2300006: CT_Engine
+    2300008: CT_Chassi
+    2300010: CT_Steerin
+    2300012: CT_WheelBL
+    2300014: CT_WheelFR
+    2300016: CT_WheelBR
+    2300018: CT_WheelFL
+    3300000: CT_Brake
+    3300002: CT_Body
+    3300004: CT_Trans
+    3300006: CT_Engine
+    3300008: CT_Chassi
+    3300010: CT_Steerin
+    3300012: CT_WheelBL
+    3300014: CT_WheelFR
+    3300016: CT_WheelBR
+    3300018: CT_WheelFL
+    4300000: CT_Brake
+    4300002: CT_Body
+    4300004: CT_Trans
+    4300006: CT_Engine
+    4300008: CT_Chassi
+    4300010: CT_Steerin
+    4300012: CT_WheelBL
+    4300014: CT_WheelFR
+    4300016: CT_WheelBR
+    4300018: CT_WheelFL
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
